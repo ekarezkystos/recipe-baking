@@ -25,6 +25,8 @@ File recipes.sql sudah berisi beberapa resep bakery (roti, cake, pastry). Review
 
 #🚀 Getting Started
 
+Pastikan sudah install git
+
 Kloningkan Repo ke C:\xampp\htdocs\
 git clone https://github.com/ekarezkystos/recipe-baking.git
 cd C:\xampp\htdocs\bakery-recipes>
