@@ -29,7 +29,7 @@ File recipes.sql sudah berisi beberapa resep bakery (roti, cake, pastry). Review
 Pastikan sudah install git
 
 Kloningkan Repo ke C:\xampp\htdocs\
-git clone https://github.com/ekarezkystos/recipe-baking.git
+git clone https://github.com/ekarezkystos/bakery-recipes.git
 cd C:\xampp\htdocs\bakery-recipes>
 
 Setup
@@ -40,7 +40,7 @@ Jalankan Apache & MySql dari XAMPP Control Panel
 
 Import Database:
   Buka PHPMyAdmin
-  Buat Database baru : bakery_db
+  Buat Database baru : bakery_recipes
   Import File : backend/recipes.sql
 
 Pada Command Prompt masuk ke directory C:\xampp\htdocs\bakery-recipes\frontend
