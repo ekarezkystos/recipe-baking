@@ -1,3 +1,4 @@
+<img width="2559" height="1259" alt="image" src="https://github.com/user-attachments/assets/fa3ab8e8-2301-4cc5-be7c-4707b46ba35d" />
 #🍞 #Bakery Recipes App#
 A full‑stack web application for managing and browsing bakery recipes. Built with PHP (XAMPP) for backend and React + TailwindCSS (Vite) for frontend.
 
